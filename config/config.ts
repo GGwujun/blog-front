@@ -15,8 +15,8 @@ export default defineConfig({
       }),
 
   logo: "/logo.png",
-  base: isVercel ? "/" : "/blog-front",
-  publicPath: isVercel ? "/" : "/blog-front/",
+  base: "/blog-front",
+  publicPath: "/blog-front/",
   favicon: "/logo.png",
   mode: "site",
   title: "大师兄",
