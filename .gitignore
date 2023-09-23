@@ -1,0 +1,15 @@
+node_modules
+.umi
+.umi-production
+/dist
+
+.dumi/tmp
+.dumi/tmp-test
+.dumi/tmp-production
+.dumi
+
+yarn.lock
+
+
+public/images
+ssrc
